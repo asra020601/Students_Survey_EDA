@@ -13,8 +13,7 @@ The purpose of this dataset is to enable thorough analysis and exploration of st
 Based on the analysis of the Student Survey Dataset, the following key insights have been derived:
 
 1. **Branch of Study**: The dataset comprises students from various academic branches, with Computer Science (CS) and Information Technology (IT) being the most common branches.
-
- 2 **Educational Background**: The students' educational background reveals a range of 10th and 12th grade school types and percentages. Most students have obtained high scores in both 10th and 12th grades.
+2 **Educational Background**: The students' educational background reveals a range of 10th and 12th grade school types and percentages. Most students have obtained high scores in both 10th and 12th grades.
 
 3. **Exposure to Programming Languages**: The dataset reflects that a significant portion of students is knowledgeable in 2-3 programming languages. However, only a small percentage of students possess expertise in 5 or more languages.
 
