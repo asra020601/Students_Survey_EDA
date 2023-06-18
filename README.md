@@ -41,8 +41,7 @@ Researchers, educational institutions, and analysts can leverage this dataset to
 
 ## Dataset Attribution
 
-The Student Survey Dataset used in this analysis can be accessed from [Kaggle](https://www.kaggle.com/), using the https://www.kaggle.com/datasets/mrutyunjaybiswal/iitjee-neet-aims-students-questions-data
-
+The Student Survey Dataset used in this analysis can be accessed from [Kaggle](https://www.kaggle.com/).
 Please refer to the original dataset source for any specific terms and conditions regarding the usage and citation of the data.
 
 ## References
