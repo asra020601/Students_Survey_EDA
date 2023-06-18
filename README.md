@@ -47,5 +47,4 @@ Please refer to the original dataset source for any specific terms and condition
 
 ## References
 
-1. YourDatasetContributor. "Student Survey Dataset." Kaggle. Retrieved from [link to the dataset](https://www.kaggle.com/datasets/mrutyunjaybiswal/iitjee-neet-aims-students-questions-data).
-2. Creative Commons Attribution-ShareAlike 3.0 Unported License. Retrieved from [link to the license](https://creativecommons.org/licenses/by-s
+1."Student Survey Dataset." Kaggle. Retrieved from (https://www.kaggle.com/datasets/mrutyunjaybiswal/iitjee-neet-aims-students-questions-data).
